@@ -1,0 +1,9 @@
++---------+---------------+------------------------+---------------------+
+| post_id | username      | title                  | published_at        |
++---------+---------------+------------------------+---------------------+
+|       7 | gray_williams | Database indexes       | 2026-09-16 17:00:00 |
+|       8 | harper_singh  | Testing data workflows | 2026-09-18 18:30:00 |
+|       9 | indigo_brown  | Working with CSV files | 2026-09-20 20:00:00 |
+|      10 | jules_garcia  | MySQL from Python      | 2026-09-22 21:30:00 |
+|      11 | blair_chen    | Aggregation patterns   | 2026-09-24 10:15:00 |
++---------+---------------+------------------------+---------------------+
