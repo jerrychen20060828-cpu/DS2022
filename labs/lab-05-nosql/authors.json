@@ -1,0 +1,29 @@
+[
+  {
+    "_id": "author_001",
+    "name": "Jane Austen",
+    "nationality": "British",
+    "bio": {
+      "short": "English novelist known for novels about the British landed gentry.",
+      "long": "Jane Austen was an English novelist whose works critique and comment upon the British landed gentry at the end of the 18th century. Her most famous novels include Pride and Prejudice, Sense and Sensibility, and Emma, celebrated for their wit, social commentary, and masterful character development."
+    }
+  },
+  {
+    "_id": "author_002",
+    "name": "Neil Gaiman",
+    "nationality": "British",
+    "bio": {
+      "short": "British author of novels, comics, and screen work.",
+      "long": "Neil Gaiman is a British author whose work crosses novels, comics, and film. He wrote American Gods on his own and Good Omens with Terry Pratchett."
+    }
+  },
+  {
+    "_id": "author_003",
+    "name": "Terry Pratchett",
+    "nationality": "British",
+    "bio": {
+      "short": "British novelist best known for the Discworld series.",
+      "long": "Terry Pratchett was a British author of comic fantasy. The Colour of Magic began the Discworld series. He co-wrote Good Omens with Neil Gaiman."
+    }
+  }
+]
